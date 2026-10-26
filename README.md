@@ -11,10 +11,10 @@ Select a library type, choose your item, pick the target episodes/tracks, and Ad
 ### Main Interface
 Successfully added to all episodes Confirmation.
 
-![Main Interface](img_3.jpg)
+![Main Interface](images/img_3.jpg)
 
 ### Main Interface
 Actor added to all Episodes
 
-![Main Interface](img_4.jpg)
+![Main Interface](images/img_4.jpg)
 
