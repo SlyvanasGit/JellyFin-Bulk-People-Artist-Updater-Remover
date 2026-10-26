@@ -13,7 +13,7 @@ Successfully added to all episodes Confirmation.
 
 ![Main Interface](images/img_3.jpg)
 
-### Main Interface
+### This shows the TV Series with Actors added
 Actor added to all Episodes
 
 ![Main Interface](images/img_4.jpg)
